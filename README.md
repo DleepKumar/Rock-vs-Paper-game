@@ -1,5 +1,6 @@
 # Rock-vs-Paper-game
-* CODE EXPLANATION
+* CODE EXPLANATION :
+
 The code starts by printing a message that states the rules of the game.
 The first line in the code prints “Rock vs paper->paper wins.”
 This is because if you have a rock, and you play against someone who has a piece of paper, the rock will beat the paper.
